@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PierreDeneuville
-- 👀 I’m interested in DIY 🧰:, spearfishing :fish:
+- 👀 I’m interested in DIY 🧰, spearfishing :fish:
 - 🌱 I’m currently learning Ruby, and some C++  tricks with Arduino cards
 - 💞️ I’m looking to collaborate on Electronics projects, Product Management, Board games projects
 - 📫 How to reach me? Just ping me on [linkedin](www.linkedin.com/in/pierre-deneuville-80982714)
